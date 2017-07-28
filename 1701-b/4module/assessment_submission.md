@@ -114,5 +114,5 @@
 
 - URL Lockbox Github Repo Link: [URL Lockbox GH](https://github.com/VictoriaVasys/Final-Assessment/)
 - URL Lockbox Production Link: [URL Lockbox Heroku](http://vv-m4-final-assessment.herokuapp.com/)
-- Hot Reads Github Repo Link:
-- Hot Reads Production Link: 
+- Hot Reads Github Repo Link: [Hot Links GH](https://github.com/VictoriaVasys/m4-final-hot-links)
+- Hot Reads Production Link: [Hot Links Heroku](https://vv-m4-final-hot-links.herokuapp.com/)
